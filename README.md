@@ -3,7 +3,7 @@
 ## 📌 Table of Contents  
 - [Project Overview](#project-overview)  
 - [Tasks Performed](#tasks-performed)  
-- [Key Insights](#key-insights)  
+- [Key Insights & Recommendations](#key-insights--recommendations)  
 - [Dashboards Preview](#dashboards-preview)  
 - [Tools & Technologies](#tools--technologies)  
 - [Skills Demonstrated](#skills-demonstrated)  
@@ -60,13 +60,25 @@ The model integrates data from **SQL + Excel**, with over **1.5M+ records**, and
 
 ---
 
-## Key Insights  
+## Key Insights & Recommendations  
 - **Net Sales reached $823.85M in FY2021** → a **207% increase vs benchmark**.  
+  ✅ Recommendation: Focus on sustaining this momentum by doubling down on high-performing regions & channels.  
+
 - **Net Profit % dropped to -6.63%** → high Marketing expenses need **cost optimization**.  
+  ✅ Recommendation: Marketing team should reassess campaigns, cut low-ROI spends, and redirect budget toward digital channels with better returns.  
+
 - **LATAM region grew by ~58%** → despite small base ($3.16M), shows strong **future potential**.  
+  ✅ Recommendation: Increase investment in LATAM through partnerships, targeted promotions, and expanding distribution channels.  
+
 - **Absolute Forecast Error spiked in FY2021** → indicating high fluctuations between under-forecasting & over-forecasting.  
+  ✅ Recommendation: Improve demand forecasting models by integrating historical sales + external factors (seasonality, promotions, competitor activity).  
+
 - **AtliQ reached Top 5 in overall market share (5.8%)**, marking a major competitive milestone.  
+  ✅ Recommendation: Focus on retaining top customers and strengthening supply chain to further climb the market ladder.  
+
 - **~70% of revenue is generated through retailers** like Amazon, Flipkart, Vivek, etc., emphasizing the importance of channel strategy.  
+  ✅ Recommendation: Diversify channels by boosting own e-store presence to reduce over-dependence on external retailers.  
+  
 
 ---
 
@@ -80,7 +92,7 @@ The model integrates data from **SQL + Excel**, with over **1.5M+ records**, and
 ![Sales Dashboard](SALES_DASHBOARD.png)  
 *Designed an interactive sales dashboard to monitor revenue, margins, unit economics & customer-product performance across regions.*  
 
-👉 [Try Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFiZjI5ODAtNzNkZi00YTFjLWE3MzctN2Q4YTQyMjY5OGNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)  
+👉 [Try Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTFiZjI5ODAtNzNkZi00YTFjLWE3MzctN2Q4YTQyMjY5OGNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=55b372ed61093223a835)  
 
 ---
 
