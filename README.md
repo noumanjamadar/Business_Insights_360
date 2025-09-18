@@ -13,7 +13,7 @@
 ---
 
 ## Project Overview  
-This project is a **Power BI case study** for **AtliQ Hardware**, a multinational company selling **computers and accessories** through channels like **Amazon, Flipkart, Croma, Costco**, and its **own stores/e-store**.  
+This project is a **Power BI case study** for **AtliQ Hardware**, a multinational company selling **computers and accessories** through channels like **Amazon, Flipkart, Croma, and its **own stores/e-store**.  
 
 AtliQ Hardware faced challenges in international markets due to intuition-driven decisions. While the competitors are leveraging data-driven decision to make profit. To stay competitive, AtliQ has decided to take data-driven decision approach. The goal of this project was to build a **unified reporting solution in Power BI** across **Finance, Sales, Marketing, and Supply Chain** to empower stakeholders with **data-driven insights**.  
 
