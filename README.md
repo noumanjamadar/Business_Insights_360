@@ -1,5 +1,7 @@
 # 📊 BUSINESS INSIGHTS 360 (Power BI)  
 
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat) ![DAX](https://img.shields.io/badge/-DAX-000000?logo=microsoftpowerbi&logoColor=white&style=flat) ![Data Modeling ](https://img.shields.io/badge/-Data_Modeling-4CAF50?style=flat) ![ETL](https://img.shields.io/badge/-ETL-FF6F00?style=flat)  
+
 ## 📌 Table of Contents  
 - [Project Overview](#project-overview)  
 - [Tasks Performed](#tasks-performed)  
