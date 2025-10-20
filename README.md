@@ -34,7 +34,10 @@ The model integrates data from **SQL + Excel**, with over **1.5M+ records**, and
 - Designed a **star schema** with **15+ tables** (fact & dimension).  
 - Built relationships between sales, customers, products, regions, and targets.  
 - Created a **custom `Dim_Date` table** with fiscal year mapping (Sep–Aug) and defined **Q1–Q4** periods for reporting.  
-- Ensured proper **filter propagation** across dimensions for accurate reporting.  
+- Ensured proper **filter propagation** across dimensions for accurate reporting.
+
+📊 *Data Model Preview:*  
+![Data Model](DATA_MODELING.png)  
 
 ### 🔹 3. KPI Development (DAX Measures)  
 - Built **Net Sales, Gross Margin (GM), GM%, P&L Statement** using advanced DAX functions.  
